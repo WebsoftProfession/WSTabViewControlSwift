@@ -1,0 +1,6 @@
+framework module WSTabViewControlSwift {
+  umbrella header "WSTabViewControlSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

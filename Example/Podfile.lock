@@ -1,0 +1,16 @@
+PODS:
+  - WSTabViewControlSwift (0.1.0)
+
+DEPENDENCIES:
+  - WSTabViewControlSwift (from `../`)
+
+EXTERNAL SOURCES:
+  WSTabViewControlSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WSTabViewControlSwift: e912cd751ece8bfd5c6988467f94cd37210cf6f2
+
+PODFILE CHECKSUM: c2acee5a8802b5196f6bdb56b3d870102d7235d3
+
+COCOAPODS: 1.11.3
