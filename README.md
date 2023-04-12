@@ -20,6 +20,14 @@ it, simply add the following line to your Podfile:
 pod 'WSTabViewControlSwift'
 ```
 
+## Preview
+
+![Alt text](https://github.com/WebsoftProfession/WSTabViewControlSwift/blob/main/WSTabViewControlSwift_4.png "Optional Title")
+![Alt text](https://github.com/WebsoftProfession/WSTabViewControlSwift/blob/main/WSTabViewControlSwift_1.png "Optional Title")
+![Alt text](https://github.com/WebsoftProfession/WSTabViewControlSwift/blob/main/WSTabViewControlSwift_2.png "Optional Title")
+![Alt text](https://github.com/WebsoftProfession/WSTabViewControlSwift/blob/main/WSTabViewControlSwift_3.png "Optional Title")
+
+
 ## Author
 
 WebsoftProfession, websoftprofession@gmail.com
